@@ -1,0 +1,13 @@
+body{
+    color: rgb(161, 43, 13);
+    display: flex;
+    width: 1000px;
+    height: 1000px;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.scri{
+    color: rebeccapurple;
+}

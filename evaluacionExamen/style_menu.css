@@ -1,0 +1,57 @@
+html{
+ background-color: rgb(49, 79, 148);
+
+}
+body{
+ color: rgb(146, 128, 29);
+ 
+
+
+}
+.letras-menu h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+
+
+}
+.letras-menu li{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.letras-menu h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+/* Banderita */
+#img img
+{
+    height: 200px;
+    width: 180px;
+}
+
+#img
+{
+    margin: 0px;
+    padding-left: 85px;
+    position: absolute;
+}
+
+#img
+{
+    z-index: 2;
+}
+
+#carouselExampleIndicators
+{
+    height: 500px;
+    margin-top: 60px;
+}
+
